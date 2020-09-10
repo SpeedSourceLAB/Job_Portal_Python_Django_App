@@ -1,0 +1,42 @@
+[
+  {
+      "Filename":"C:/Users/rajth/PycharmProjects/untitled1/ModelResume_xml_doc",
+      "Expected_result":"True"
+
+  },
+ {
+      "Filename":"C:/Users/rajth/PycharmProjects/untitled1/ModelResume_xml.docx",
+      "Expected_result":"True"
+  },
+{
+     "Filename":"C:/Users/rajth/PycharmProjects/untitled1/mysample.pdf",
+      "Expected_result":"False"
+  },
+{
+      "Filename":"C:/Users/rajth/PycharmProjects/untitled1/empty.docx",
+      "Expected_result":"True"
+  },
+{
+      "Filename":"C:/Users/rajth/PycharmProjects/untitled1/ModelResume.docx",
+      "Expected_result":"True"
+  },
+{
+      "Filename":"C:/Users/rajth/PycharmProjects/untitled1/15-MB-docx-file-download.doc",
+      "Expected_result":"False"
+
+  },
+{
+     "Filename":"C:/Users/rajth/PycharmProjects/untitled1/Sample.docx",
+     "Expected_result":"True"
+
+  },
+{
+     "Filename":"C:/Users/rajth/PycharmProjects/untitled1/sample-docx-file-for-testing.docx",
+     "Expected_result":"True"
+
+  },
+{
+      "Filename":"C:/Users/rajth/PycharmProjects/untitled1/docfile.doc",
+      "Expected_result":"False"
+  }
+ ]

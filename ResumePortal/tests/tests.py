@@ -1,2 +1,2 @@
 def test_1():
-    pass
+    assert 2==3
